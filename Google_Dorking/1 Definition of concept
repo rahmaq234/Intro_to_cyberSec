@@ -1,0 +1,9 @@
+What's a web query or web search query.
+    This is a query that a user enters into websearch to satisfy there information need. Web search queries are often plain text, boolean search directives  is rarely used (boolean search is a structured process
+that allow users to insert word or phrases eg AND, OR, NOT or AND NOT, quotation marks "", parentheses and asterisk) to limit and define the search result.
+Most web searches covers three categories, first is the informational queries, this query is purely informational all the user wants is an information or answer to particular question. Secondly, Navigational query they 
+cover finding a certain website or webpage it deals with a single entity and lastly we have transactional queries this deal was purely with transactions the user performs a particular action or purchase.   
+   
+WHAT'S A GOOGLE DORK QUERY
+ A Google dork query is a search string that uses advanced search operators to find information not readily available on the website. It's a technique used to find information that might have been accidentally exposed to the internet such as webcams, log files and air files or things that are not properly guarded, it also helps narrow down our search.
+

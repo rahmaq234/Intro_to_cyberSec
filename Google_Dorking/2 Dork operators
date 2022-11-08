@@ -1,0 +1,5 @@
+1. Cache command : the cache command speech of the word search process. The command is written for instance cache: my school.ng
+2. Intext or allintext command : this command is used to find a particular text from a webpage, the intext command can be used in two ways, you can look for a single key word using for example Intext: password or for a multiple keywords using allintext:"password" "name"
+3. Intittle command : this is similar to the Inurl command, it's used to find the required information for example Intittl:password 
+4. Inurl command:the Inurl command filters the document based on the URL text eg Inurl:phone Samsung
+5. File type : this command filters out the most important files among other files for example the file type the user wants is just pdf file eg allintext: username filetypes:pdf 

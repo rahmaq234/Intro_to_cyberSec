@@ -4,8 +4,7 @@
 4_Inurl command:the Inurl command filters the document based on the URL text eg Inurl:phone Samsung
 5_File type : this command filters out the most important files among other files for example the file type the user wants is just pdf file eg allintext: username filetypes:pdf 
 6_|(the vertical slash): this command shows all sites that contain either or both specified words in the query for example; hacking|password|filetype pdf
-7_Email lists: 
-It's shocking how easy it is to find these with Google dork, most spammers use this trick to add unlimited numbers of email addresses to their spam list using the command; site: .com filetype: CSV Inurl: email.csv.
+7_Email lists:It's shocking how easy it is to find these with Google dork, most spammers use this trick to add unlimited numbers of email addresses to their spam list using the command; site: .com filetype: CSV Inurl: email.csv.
 8_inanchor: this command is useful when you need to search for an exact anchor text used on any link using; inanchor: "cyber crimes"
 9_ Zoom Booms: zoom bombs are dorks used to disrupt online video meetings in as much as URLs are distributed using the search query [Inurl: zoom.us/j and intext scheduled for]
 10_Database dump: this gets information from wrongly configured databases. Some SQL files have been wrongly dumped on servers and can be accessed through a domain using; [Index of database.sql.zip]
